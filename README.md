@@ -5,7 +5,7 @@
 
 **Artigo Medium:** [Otimizando Campanhas de Marketing: Selecionando Clientes com Machine Learning](https://medium.com/@gouveadiones/otimizando-campanhas-de-marketing-selecionando-clientes-com-machine-learning-9f00871a3a2b)
 
-**Apresentação:**
+**Apresentação para equipe de negocios:** [PDF](https://github.com/DionesGouvea/propensao_compra/blob/main/Apresenta%C3%A7%C3%A3o%20Ifood.pdf) - [PPTX](https://github.com/DionesGouvea/propensao_compra/blob/main/Apresenta%C3%A7%C3%A3o%20Ifood.pptx)
 
 -----------------------------------------------------------
 A previsão de clientes mais propensos a comprar um produto após receber uma campanha de marketing é de extrema importância para as empresas, pois oferece uma vantagem competitiva significativa. Ao identificar os potenciais compradores, as empresas podem direcionar seus esforços de marketing de forma mais eficiente e eficaz, economizando recursos valiosos.
