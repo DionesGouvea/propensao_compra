@@ -23,6 +23,18 @@ Custo para contatar 2240 clientes : **6720 MU**
 Receita dos 15% que compraram: **3674 MU**
 
 Lucro obtido: **-3046 MU**
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+# Resumo do projeto 
+Apesar de terem sido utilizados diversos modelos, a Regressão Logística apresentou o melhor desempenho. Devido ao grande número de features e ao desbalanceamento dos dados, foi necessário ajustar o parâmetro **class_weights** e aplicar a **Regularização L1**. Ao final, obteve-se um recall de 85% com uma precisão satisfatória, o que permite alcançar uma boa margem de lucro após as campanhas de marketing.
+
+![Cliente comprador](https://github.com/DionesGouvea/propensao_compra/blob/main/data/Retorno%20modelo%20com%20threshold.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Além disso, foi possível identificar as características distintivas do cliente comprador e do cliente que não realiza a compra, proporcionando maior clareza e embasamento para as tomadas de decisões necessárias por parte da equipe de marketing. Essas informações são valiosas para direcionar estratégias mais efetivas e personalizadas, visando atingir o público-alvo com maior precisão e aumentar as chances de sucesso das campanhas de marketing.
+
+![Cliente comprador](https://github.com/DionesGouvea/propensao_compra/blob/main/data/cliente_comprador-removebg-preview.png)
+
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
